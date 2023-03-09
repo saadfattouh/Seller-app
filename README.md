@@ -1,4 +1,4 @@
-# sixvalley_vendor_app
+# msplus_vendor_app
 
 A new Flutter application.
 
